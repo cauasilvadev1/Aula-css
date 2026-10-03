@@ -27,10 +27,12 @@ font-family: "Isometra", serif;
     font-family: Arial, Helvetica, sans-serif;
 } */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
      font-family: "Roboto", sans-serif;
+     margin: 0;
+     padding: 0;
 }
 
 #guia-eleitor {
@@ -51,6 +53,37 @@ font-family: "Isometra", serif;
 
 #container
 {
-    height: 60vh;
-    width: 35vw;
+    height: 35vh;
+    width: 40vw;
+
+} */
+
+/* px */
+/* viewport width */
+/* viewport height */
+/* % */
+
+
+
+#container {
+    width: 20vw;
+    height: 30vh;
+}
+
+#container input {
+    width: 16vw;
+    height: 4vh;
+    margin-bottom: 2vh;
+    border: 2px solid rgb(211, 209, 209);
+    border-radius: 5px;
+}
+
+#container button {
+    width: 16vw;
+    height: 4vh;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
 }
