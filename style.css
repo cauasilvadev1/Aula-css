@@ -1,0 +1,56 @@
+/* .texto {
+    color: rgb(9, 255, 0);
+}
+
+#identificador {
+    color: #0D1C42;
+} */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Isometra&family=Playwrite+CA:wght@100..400&display=swap');
+
+#titulo {
+    color: #5C7057;
+    font-size: 40px;
+text-align: center;
+font-family: "Isometra", serif;
+}
+
+#paragrafo {
+    color: #89A482;
+    font-size: 15px;
+    font-weight: 800;
+    font-style: italic;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    text-align: justify;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+     font-family: "Roboto", sans-serif;
+}
+
+#guia-eleitor {
+    color: dimgray;
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+#title {
+    color: #ff0d01;
+    font-size: 36px;
+}
+
+#rodape {
+    color: #606060;
+    font-size: 12px;
+}
+
+#container
+{
+    height: 60vh;
+    width: 35vw;
+}
